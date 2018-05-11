@@ -45,7 +45,7 @@ color.summary.bar=color0 on color6
 
 color.sync.added=
 color.sync.changed=
-color.sync.rejected=
+color.sync.rejected=color1
 
 color.tag.none=
 color.tagged=color10
